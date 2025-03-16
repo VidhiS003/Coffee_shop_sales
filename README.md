@@ -23,7 +23,4 @@ The **Coffee Hub Dashboard** is a data visualization project designed to provide
 - Sample Data.csv - Example dataset used in the dashboard  
 - README.md - Project documentation  
 
-## 🌟 Contributing  
-Feel free to open issues or submit pull requests to enhance the dashboard. Suggestions are always welcome!  
-
 ---
